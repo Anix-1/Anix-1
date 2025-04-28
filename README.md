@@ -14,9 +14,9 @@ I'm an undergraduate student studying **Computer Science** with a focus on **Dat
 - 🔧 **Data Pipelines**: Automating data workflows for better efficiency
 
 ## Let's Connect:
-- 📧 Email: [your-email@example.com]
-- 🌐 Portfolio: [your-portfolio-link.com](http://your-portfolio-link.com)
-- 💼 LinkedIn: [linkedin.com/in/anuragrout](https://linkedin.com/in/anuragrout)
+- 📧 Email: [rajpootanurag8058@gmail.com]
+- 🌐 Portfolio: [will be added soon](http://your-portfolio-link.com)
+- 💼 LinkedIn: [www.linkedin.com/in/anurag-rout-a9b66224a]
 
 ---
 
